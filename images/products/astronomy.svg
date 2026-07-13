@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Astronomy and zodiac illustration">
+  <rect width="600" height="400" rx="30" fill="#07050f"/>
+  <circle cx="420" cy="164" r="86" fill="url(#sky)"/>
+  <circle cx="420" cy="164" r="44" fill="#fff" opacity="0.95"/>
+  <path d="M180 262c42-56 86-84 132-84" stroke="#7c4dff" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M178 284c46-20 82-24 132-10" stroke="#ff8b3d" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <circle cx="220" cy="148" r="10" fill="#ff4d5e"/>
+  <circle cx="260" cy="180" r="8" fill="#ffffff88"/>
+  <circle cx="310" cy="132" r="7" fill="#ffffff88"/>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c4dff"/>
+      <stop offset="100%" stop-color="#ff4d5e"/>
+    </linearGradient>
+  </defs>
+</svg>
