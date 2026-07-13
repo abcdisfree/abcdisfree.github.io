@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="ABCD logo">
+  <rect width="240" height="240" rx="56" fill="#06040b"/>
+  <path d="M65 64h48c29 0 52 22 52 53 0 30-23 53-52 53H65z" fill="url(#g)"/>
+  <path d="M125 64h48c29 0 52 22 52 53 0 30-23 53-52 53h-48z" fill="url(#g2)"/>
+  <path d="M88 88h26v66H88z" fill="#fff"/>
+  <path d="M148 88h26v66h-26z" fill="#fff"/>
+  <path d="M84 158h116" stroke="#ff8b3d" stroke-width="12" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c4dff"/>
+      <stop offset="100%" stop-color="#ff4d5e"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff8b3d"/>
+      <stop offset="100%" stop-color="#ff4d5e"/>
+    </linearGradient>
+  </defs>
+</svg>
